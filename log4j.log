@@ -1,0 +1,86 @@
+2015-12-15 20:00:29,396 INFO  - Navigating to:'http://godev.solomoto.ru'
+2015-12-15 20:01:59,153 INFO  - Clicking on By.xpath: //button[@class='btn selectpicker btn-default']
+2015-12-15 20:01:59,341 INFO  - - - Ok! Element, found By.xpath: //button[@class='btn selectpicker btn-default'] clicked successfully
+2015-12-15 20:02:02,143 INFO  - Clicking on By.xpath: //li[span/text()='English']
+2015-12-15 20:03:05,671 INFO  - - - Ok! Element, found By.xpath: //li[span/text()='English'] clicked successfully
+2015-12-15 20:03:05,790 INFO  - Clicking on By.xpath: //a[@id='loginLink']
+2015-12-15 20:03:06,020 INFO  - - - Ok! Element, found By.xpath: //a[@id='loginLink'] clicked successfully
+2015-12-15 20:03:09,017 INFO  - Changing value in element found By.xpath: //input[@id='Email'] from '' to ''
+2015-12-15 20:03:09,799 INFO  - Changing value in element found By.xpath: //input[@id='Email'] from '' to 'solo_kay@ukr.net'
+2015-12-15 20:03:10,991 INFO  - Changing value in element found By.xpath: //input[@id='Password'] from '' to ''
+2015-12-15 20:03:11,207 INFO  - Changing value in element found By.xpath: //input[@id='Password'] from '' to '06011988'
+2015-12-15 20:03:12,266 INFO  - Clicking on By.xpath: //button[@id='loginBtn']
+2015-12-15 20:03:17,657 INFO  - - - Ok! Element, found By.xpath: //button[@id='loginBtn'] clicked successfully
+2015-12-15 20:03:18,361 INFO  - Clicking on By.xpath: //a[@class='business-name fl arrow show-dropdown-link']
+2015-12-15 20:03:18,600 INFO  - - - Ok! Element, found By.xpath: //a[@class='business-name fl arrow show-dropdown-link'] clicked successfully
+2015-12-15 20:03:18,773 INFO  - Clicking on By.xpath: //span[@class='name-widget']/span[text()='Publish site']
+2015-12-15 20:03:19,006 INFO  - - - Ok! Element, found By.xpath: //span[@class='name-widget']/span[text()='Publish site'] clicked successfully
+2015-12-15 20:03:49,431 INFO  - Clicking on By.xpath: //span[@class='cke_button_icon cke_button__solomotoimage_icon']
+2015-12-15 20:03:49,951 INFO  - - - Ok! Element, found By.xpath: //span[@class='cke_button_icon cke_button__solomotoimage_icon'] clicked successfully
+2015-12-15 20:07:11,310 INFO  - Clicking on By.xpath: //a[@id='openUpload']
+2015-12-15 20:07:14,369 INFO  - - - Ok! Element, found By.xpath: //a[@id='openUpload'] clicked successfully
+2015-12-16 19:12:16,729 INFO  - Navigating to:'http://godev.solomoto.ru'
+2015-12-16 19:13:45,805 INFO  - Clicking on By.xpath: //button[@class='btn selectpicker btn-default']
+2015-12-16 19:13:46,116 INFO  - - - Ok! Element, found By.xpath: //button[@class='btn selectpicker btn-default'] clicked successfully
+2015-12-16 19:13:47,293 INFO  - Clicking on By.xpath: //li[span/text()='English']
+2015-12-16 19:14:50,803 INFO  - - - Ok! Element, found By.xpath: //li[span/text()='English'] clicked successfully
+2015-12-16 19:14:50,863 INFO  - Clicking on By.xpath: //a[@id='loginLink']
+2015-12-16 19:14:51,036 INFO  - - - Ok! Element, found By.xpath: //a[@id='loginLink'] clicked successfully
+2015-12-16 19:14:53,800 INFO  - Changing value in element found By.xpath: //input[@id='Email'] from '' to ''
+2015-12-16 19:14:54,141 INFO  - Changing value in element found By.xpath: //input[@id='Email'] from '' to 'solo_kay@ukr.net'
+2015-12-16 19:14:56,141 INFO  - Changing value in element found By.xpath: //input[@id='Password'] from '' to ''
+2015-12-16 19:14:56,316 INFO  - Changing value in element found By.xpath: //input[@id='Password'] from '' to '06011988'
+2015-12-16 19:14:57,376 INFO  - Clicking on By.xpath: //button[@id='loginBtn']
+2015-12-16 19:15:01,471 INFO  - - - Ok! Element, found By.xpath: //button[@id='loginBtn'] clicked successfully
+2015-12-16 19:15:27,818 INFO  - Clicking on By.xpath: //a[@class='business-name fl arrow show-dropdown-link']
+2015-12-16 19:15:28,009 INFO  - - - Ok! Element, found By.xpath: //a[@class='business-name fl arrow show-dropdown-link'] clicked successfully
+2015-12-16 19:15:28,145 INFO  - Clicking on By.xpath: //span[@class='name-widget']/span[text()='Publish site']
+2015-12-16 19:15:28,304 INFO  - - - Ok! Element, found By.xpath: //span[@class='name-widget']/span[text()='Publish site'] clicked successfully
+2015-12-16 19:15:30,636 ERROR - WebDriver error: Element not found By.xpath: //div[@class='widget-template-shortcut no-select ui-draggable ui-draggable-handle logo-image logo-text-widget wide']
+2015-12-16 19:16:21,671 INFO  - Navigating to:'http://godev.solomoto.ru'
+2015-12-16 19:18:09,514 INFO  - Clicking on By.xpath: //button[@class='btn selectpicker btn-default']
+2015-12-16 19:18:09,664 INFO  - - - Ok! Element, found By.xpath: //button[@class='btn selectpicker btn-default'] clicked successfully
+2015-12-16 19:18:10,843 INFO  - Clicking on By.xpath: //li[span/text()='English']
+2015-12-16 19:19:14,312 INFO  - - - Ok! Element, found By.xpath: //li[span/text()='English'] clicked successfully
+2015-12-16 19:19:14,384 INFO  - Clicking on By.xpath: //a[@id='loginLink']
+2015-12-16 19:19:14,565 INFO  - - - Ok! Element, found By.xpath: //a[@id='loginLink'] clicked successfully
+2015-12-16 19:19:16,074 ERROR - WebDriver error: Element not found By.xpath: //input[@id='Email']
+2015-12-16 19:19:52,340 INFO  - Navigating to:'http://godev.solomoto.ru'
+2015-12-16 19:21:20,195 INFO  - Clicking on By.xpath: //button[@class='btn selectpicker btn-default']
+2015-12-16 19:21:20,346 INFO  - - - Ok! Element, found By.xpath: //button[@class='btn selectpicker btn-default'] clicked successfully
+2015-12-16 19:21:21,541 INFO  - Clicking on By.xpath: //li[span/text()='English']
+2015-12-16 19:22:25,019 INFO  - - - Ok! Element, found By.xpath: //li[span/text()='English'] clicked successfully
+2015-12-16 19:22:25,089 INFO  - Clicking on By.xpath: //a[@id='loginLink']
+2015-12-16 19:22:25,263 INFO  - - - Ok! Element, found By.xpath: //a[@id='loginLink'] clicked successfully
+2015-12-16 19:22:27,907 INFO  - Changing value in element found By.xpath: //input[@id='Email'] from '' to ''
+2015-12-16 19:22:28,148 INFO  - Changing value in element found By.xpath: //input[@id='Email'] from '' to 'solo_kay@ukr.net'
+2015-12-16 19:22:30,049 INFO  - Changing value in element found By.xpath: //input[@id='Password'] from '' to ''
+2015-12-16 19:22:30,207 INFO  - Changing value in element found By.xpath: //input[@id='Password'] from '' to '06011988'
+2015-12-16 19:22:31,280 INFO  - Clicking on By.xpath: //button[@id='loginBtn']
+2015-12-16 19:22:35,420 INFO  - - - Ok! Element, found By.xpath: //button[@id='loginBtn'] clicked successfully
+2015-12-16 19:22:36,165 INFO  - Clicking on By.xpath: //a[@class='business-name fl arrow show-dropdown-link']
+2015-12-16 19:22:36,352 INFO  - - - Ok! Element, found By.xpath: //a[@class='business-name fl arrow show-dropdown-link'] clicked successfully
+2015-12-16 19:22:36,498 INFO  - Clicking on By.xpath: //span[@class='name-widget']/span[text()='Publish site']
+2015-12-16 19:22:36,720 INFO  - - - Ok! Element, found By.xpath: //span[@class='name-widget']/span[text()='Publish site'] clicked successfully
+2015-12-16 19:22:57,511 INFO  - Clicking on By.xpath: //span[@class='cke_button_icon cke_button__solomotoimage_icon']
+2015-12-16 19:22:57,908 INFO  - - - Ok! Element, found By.xpath: //span[@class='cke_button_icon cke_button__solomotoimage_icon'] clicked successfully
+2015-12-16 19:23:19,485 INFO  - Clicking on By.xpath: //a[@id='openUpload']
+2015-12-16 19:23:22,809 INFO  - - - Ok! Element, found By.xpath: //a[@id='openUpload'] clicked successfully
+2015-12-16 20:05:10,952 INFO  - Navigating to:'http://godev.solomoto.ru'
+2015-12-16 20:06:38,042 INFO  - Clicking on By.xpath: //button[@class='btn selectpicker btn-default']
+2015-12-16 20:06:38,218 INFO  - - - Ok! Element, found By.xpath: //button[@class='btn selectpicker btn-default'] clicked successfully
+2015-12-16 20:06:39,389 INFO  - Clicking on By.xpath: //li[span/text()='English']
+2015-12-16 20:07:43,046 INFO  - - - Ok! Element, found By.xpath: //li[span/text()='English'] clicked successfully
+2015-12-16 20:07:43,107 INFO  - Clicking on By.xpath: //a[@id='loginLink']
+2015-12-16 20:07:43,282 INFO  - - - Ok! Element, found By.xpath: //a[@id='loginLink'] clicked successfully
+2015-12-16 20:07:45,921 INFO  - Changing value in element found By.xpath: //input[@id='Email'] from '' to ''
+2015-12-16 20:07:46,161 INFO  - Changing value in element found By.xpath: //input[@id='Email'] from '' to 'solo_kay@ukr.net'
+2015-12-16 20:07:47,902 INFO  - Changing value in element found By.xpath: //input[@id='Password'] from '' to ''
+2015-12-16 20:07:48,061 INFO  - Changing value in element found By.xpath: //input[@id='Password'] from '' to '06011988'
+2015-12-16 20:07:49,121 INFO  - Clicking on By.xpath: //button[@id='loginBtn']
+2015-12-16 20:07:53,516 INFO  - - - Ok! Element, found By.xpath: //button[@id='loginBtn'] clicked successfully
+2015-12-16 20:07:54,290 INFO  - Clicking on By.xpath: //a[@class='business-name fl arrow show-dropdown-link']
+2015-12-16 20:07:54,579 INFO  - - - Ok! Element, found By.xpath: //a[@class='business-name fl arrow show-dropdown-link'] clicked successfully
+2015-12-16 20:07:54,719 INFO  - Clicking on By.xpath: //span[@class='name-widget']/span[text()='Publish site']
+2015-12-16 20:07:54,903 INFO  - - - Ok! Element, found By.xpath: //span[@class='name-widget']/span[text()='Publish site'] clicked successfully
+2015-12-16 20:07:57,287 ERROR - WebDriver error: Element not found By.xpath: //div[@class='widget-template-shortcut no-select ui-draggable ui-draggable-handle logo-image logo-text-widget wide']
